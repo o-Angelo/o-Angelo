@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Angelo Antonio</h1>
-<h3 align="center">Um desenvolvedor Front-End sempre em busca de mais conhecimento</h3>
+<h3 align="center">Um desenvolvedor Front-End em busca de se aprofundar cada vez mais os meus conhecimento</h3>
 
 - 🔭 Atualmente estou trabalhando na [Lucrei! CashBack](https://eulucrei.com.br)
 
 - 🌱 Estou atualmente aprendendo sobre **Flutter e Desenvolvimento Mobile**
 
-- 💬 Me pergunte sobre **ReactJS, CSS, JavaScript e Python**
+- 💬 Me pergunte sobre **ReactJS, Bootstrap, CSS, JavaScript e Python**
 
-- 📫 Me contate por **angeloban92@gmail.com**
+- 📫 Me contate por **angmacedo92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
