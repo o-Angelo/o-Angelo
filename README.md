@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Angelo Antonio</h1>
 <h3 align="center">Um desenvolvedor Front-End em busca de se aprofundar cada vez mais os meus conhecimento</h3>
 
-- 🔭 Atualmente estou trabalhando na [Lucrei! CashBack](https://eulucrei.com.br)
+- 🔭 Atualmente estou buscando oportunidades de trabalho
 
 - 🌱 Estou atualmente aprendendo sobre **Flutter e Desenvolvimento Mobile**
 
